@@ -64,7 +64,7 @@ Open the .env file and set the following values:
     ```
 
    Now you will see the screen like<br>
-   ![Teminal](images/Screenshot 2024-08-09 002927.png)<br>
+   ![Teminal]([images/Screenshot 2024-08-09 002927.png](https://github.com/Israr22/teacher-portal/blob/main/images/Screenshot%202024-08-09%20002927.png))<br>
    Please type "yes" and it will create a database in your database server with name wich you provide in .env<br>
    Now by using Seeder I already insert 5 records of students and one record of teacher
 
