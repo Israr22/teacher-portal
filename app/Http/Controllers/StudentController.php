@@ -16,7 +16,9 @@ class StudentController extends Controller
     {
         $this->authUser = Auth::user();
     }
-
+public function test(){
+    
+}
     public function index(Request $request){
         $perPage = $request->input('per_page', 10);
         $search = $request->input('query');
